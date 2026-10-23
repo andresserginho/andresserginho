@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andresserginho&style=for-the-badge&color=00ff66&label=SYSTEM+ACCESS" alt="andresserginho" />
+  <img src="https://github.com/andresserginho-cloud/andresserginho-cloud/raw/main/images (1).jpg"&style=for-the-badge&color=00ff66&label=SYSTEM+ACCESS" alt="andresserginho" />
 </p>
 
 ---
